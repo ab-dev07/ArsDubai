@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
     Template Name: ARS DUBAI
-    Author: RRDevs
+    Author: 
     Description: ARS DUBAI
     Version: 1.0
 
@@ -14073,11 +14073,11 @@ START: Project CSS
 
 .award-section-3__wraper {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: ; */
   border-bottom: 1px solid rgba(15, 15, 15, 0.1);
 }
 .award-section-3__wraper-2 {
-  gap: 190px;
+  gap: 70px;
   border: none;
 }
 @media (max-width: 1600px) {
